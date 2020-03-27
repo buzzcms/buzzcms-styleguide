@@ -15,7 +15,7 @@ export interface ButtonProps extends HtmlButtonProps {
 const colorKey = '__color'
 
 export function Button({
-  variant = 'primary',
+  variant = 'fill',
   size = 'm',
   color = 'primary',
   ...props

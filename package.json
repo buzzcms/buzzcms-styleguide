@@ -1,5 +1,6 @@
 {
   "name": "buzzcms-styleguide",
+  "homepage": "https://buzzcms.github.io/buzzcms-styleguide/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
