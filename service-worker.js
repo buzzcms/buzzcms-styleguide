@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/buzzcms-styleguide/precache-manifest.5dd273a3c769f64a3c0a5408b92f9642.js"
+  "/buzzcms-styleguide/precache-manifest.22b1c62e13f707d941964dea1e1ad151.js"
 );
 
 self.addEventListener('message', (event) => {
