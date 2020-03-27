@@ -1,4 +1,4 @@
-import { Theme } from "theme-ui";
+import { Theme } from "@theme-ui/css";
 
 export const colors = {
   text: "#333",

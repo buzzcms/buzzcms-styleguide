@@ -1,9 +1,8 @@
 /** @jsx jsx */
 
-import { jsx } from 'theme-ui'
+import { jsx, ThemeProvider } from '@theme-ui/core'
 
 import { Button } from './Button'
-import { ThemeProvider } from 'theme-ui'
 import { theme } from './theme'
 
 const colors = ['primary', 'secondary', 'neutral']

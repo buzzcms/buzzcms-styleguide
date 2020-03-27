@@ -2,7 +2,7 @@
 
 import dotProp from 'dot-prop'
 import mapObject from 'map-obj'
-import { jsx, SxStyleProp, useThemeUI } from 'theme-ui'
+import { jsx, SxStyleProp, useThemeUI } from '@theme-ui/core'
 
 type HtmlButtonProps = JSX.IntrinsicElements['button']
 
